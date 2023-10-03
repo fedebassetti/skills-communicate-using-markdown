@@ -1,5 +1,10 @@
 # Hello World! in H1
 
+## Todo list for my next week
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## and now for the LaTex fans
 
 ## a little bit of R
